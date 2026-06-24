@@ -43,14 +43,13 @@ This project demonstrates practical blue-team security skills commonly performed
 
 <p align="left">
 
-<a href="https://linux.org" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #2c3e50; color: #ffffff; font-family: 'Courier New', Courier, monospace; text-decoration: none; border-radius: 4px; font-weight: bold;">Linux</a>
-<a href="https://openssh.com" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #8e44ad; color: #ffffff; font-family: 'Arial Black', Gadget, sans-serif; text-decoration: none; border-radius: 4px; font-weight: bold;">OpenSSH</a>
-<a href="https://rsyslog.com" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #27ae60; color: #ffffff; font-family: 'Lucida Console', Monaco, monospace; text-decoration: none; border-radius: 4px; font-weight: bold;">Auth.log</a>
-<a href="https://netfilter.org" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #d35400; color: #ffffff; font-family: Impact, Charcoal, sans-serif; text-decoration: none; border-radius: 4px; font-weight: bold;">iptables</a>
-<a href="https://netfilter.org" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #2980b9; color: #ffffff; font-family: Georgia, serif; text-decoration: none; border-radius: 4px; font-weight: bold;">Netfilter</a>
-<a href="https://gnu.org" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #c0392b; color: #ffffff; font-family: 'Trebuchet MS', Helvetica, sans-serif; text-decoration: none; border-radius: 4px; font-weight: bold;">Bash</a>
-<a href="https://github.com" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #16a085; color: #ffffff; font-family: 'Comic Sans MS', cursive, sans-serif; text-decoration: none; border-radius: 4px; font-weight: bold;">SOC Monitoring Tools</a>
-
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-OpenSSH-000000?style=for-the-badge&logo=openssh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Auth.log-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-iptables-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Netfilter-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/-SOC%20Monitoring-2563EB?style=for-the-badge" />
 
 </p>
 

@@ -1,9 +1,13 @@
 # 🛡️ SSH Honeypot Monitoring & SSH Hardening Project
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+
+  <img src="https://img.shields.io/badge/SSH%20Honeypot-Deploy%20Monitored%20Service-red?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/SSH%20Hardening-Secure%20Configuration-blue?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/IP%20Blocking-Brute%20Force%20Mitigation-green?style=for-the-badge" />
+
 </p>
 
 ---

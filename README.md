@@ -43,13 +43,14 @@ This project demonstrates practical blue-team security skills commonly performed
 
 <p align="left">
 
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+<a href="https://linux.org" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #2c3e50; color: #ffffff; font-family: 'Courier New', Courier, monospace; text-decoration: none; border-radius: 4px; font-weight: bold;">Linux</a>
+<a href="https://openssh.com" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #8e44ad; color: #ffffff; font-family: 'Arial Black', Gadget, sans-serif; text-decoration: none; border-radius: 4px; font-weight: bold;">OpenSSH</a>
+<a href="https://rsyslog.com" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #27ae60; color: #ffffff; font-family: 'Lucida Console', Monaco, monospace; text-decoration: none; border-radius: 4px; font-weight: bold;">Auth.log</a>
+<a href="https://netfilter.org" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #d35400; color: #ffffff; font-family: Impact, Charcoal, sans-serif; text-decoration: none; border-radius: 4px; font-weight: bold;">iptables</a>
+<a href="https://netfilter.org" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #2980b9; color: #ffffff; font-family: Georgia, serif; text-decoration: none; border-radius: 4px; font-weight: bold;">Netfilter</a>
+<a href="https://gnu.org" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #c0392b; color: #ffffff; font-family: 'Trebuchet MS', Helvetica, sans-serif; text-decoration: none; border-radius: 4px; font-weight: bold;">Bash</a>
+<a href="https://github.com" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #16a085; color: #ffffff; font-family: 'Comic Sans MS', cursive, sans-serif; text-decoration: none; border-radius: 4px; font-weight: bold;">SOC Monitoring Tools</a>
+
 
 </p>
 
@@ -227,4 +228,3 @@ This project demonstrates practical experience in:
 * Defensive security operations
 * SOC Tier 1 responsibilities
 
-These are core skills frequently required for Cybersecurity Analysts and entry-level SOC roles.

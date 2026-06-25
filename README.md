@@ -93,7 +93,7 @@ This screenshot shows the OpenSSH service running successfully on the Linux targ
 <p><strong>Ref 2: SSH Authentication Log Monitoring</strong><br>
 This screenshot displays real-time monitoring of the Linux authentication log using the auth.log file. Failed SSH login attempts are captured and recorded by the operating system, providing valuable forensic data for security investigations.</p>
 
-<img src="Screenshot 2026-06-24 at 14.41.31.png" width="700" alt="Auth Log Monitoring">
+<img src="Screenshot 2026-06-24 at 14.51.43.png" width="700" alt="Auth Log Monitoring">
 
 <p>Live SSH Authentication Logging</p><br>
 
@@ -102,7 +102,7 @@ This screenshot displays real-time monitoring of the Linux authentication log us
 <p><strong>Ref 3: Simulated SSH Brute-Force Attempts</strong><br>
 This screenshot demonstrates repeated failed login attempts from an external system against the SSH service. The activity simulates a brute-force attack commonly observed by SOC analysts in production environments.</p>
 
-<img src="brute_force_auth_failures.png" width="700" alt="Failed SSH Logins">
+<img src="Screenshot 2026-06-24 at 14.51.38.png" width="700" alt="Failed SSH Logins">
 
 <p>Simulated SSH Attack Activity</p><br>
 
@@ -111,7 +111,7 @@ This screenshot demonstrates repeated failed login attempts from an external sys
 <p><strong>Ref 4: SSH Hardening Configuration</strong><br>
 This screenshot shows security enhancements applied within the SSH daemon configuration file. Controls such as disabling root login, limiting authentication attempts, reducing login timeout periods, and restricting user access significantly reduce the server's attack surface.</p>
 
-<img src="ssh_hardening_config.png" width="700" alt="SSH Hardening">
+<img src="Screenshot 2026-06-24 at 15.03.13.png" width="700" alt="SSH Hardening">
 
 <p>SSH Security Configuration Changes</p><br>
 
@@ -120,7 +120,7 @@ This screenshot shows security enhancements applied within the SSH daemon config
 <p><strong>Ref 5: SSH Service Restart After Hardening</strong><br>
 This screenshot confirms successful restart of the SSH service after applying security configuration changes. Restarting the service activates the new defensive controls.</p>
 
-<img src="ssh_service_restart.png" width="700" alt="SSH Restart">
+<img src="Screenshot 2026-06-24 at 15.05.41.png" width="700" alt="SSH Restart">
 
 <p>SSH Service Restart Confirmation</p><br>
 
@@ -129,7 +129,7 @@ This screenshot confirms successful restart of the SSH service after applying se
 <p><strong>Ref 6: Failed Login Extraction from Authentication Logs</strong><br>
 This screenshot demonstrates extraction of failed SSH authentication events from auth.log. The command filters security-relevant events to support investigation and threat hunting activities.</p>
 
-<img src="failed_login_extraction.png" width="700" alt="Failed Password Extraction">
+<img src="Screenshot 2026-06-24 at 15.15.25.png" width="700" alt="Failed Password Extraction">
 
 <p>Failed Login Event Analysis</p><br>
 
@@ -138,7 +138,7 @@ This screenshot demonstrates extraction of failed SSH authentication events from
 <p><strong>Ref 7: Attacker IP Frequency Analysis</strong><br>
 This screenshot shows the identification of attacker IP addresses through log parsing and aggregation. Repeated login attempts from the same source indicate potential brute-force activity requiring mitigation.</p>
 
-<img src="iptables_mitigation_and_verification.png" width="700" alt="Attacker IP Analysis">
+<img src="Screenshot 2026-06-24 at 15.22.03.png" width="700" alt="Attacker IP Analysis">
 
 <p>Attacker IP Detection Results</p><br>
 
@@ -147,7 +147,7 @@ This screenshot shows the identification of attacker IP addresses through log pa
 <p><strong>Ref 8: Firewall Rule Creation Using iptables</strong><br>
 This screenshot demonstrates implementation of a firewall rule designed to block a malicious IP address identified during the investigation. This action represents the containment phase of the incident response process.</p>
 
-<img src="iptables_mitigation_and_verification.png" width="700" alt="iptables Blocking Rule">
+<img src="Screenshot 2026-06-24 at 15.27.35.png" width="700" alt="iptables Blocking Rule">
 
 <p>Firewall-Based Threat Mitigation</p><br>
 
@@ -156,7 +156,7 @@ This screenshot demonstrates implementation of a firewall rule designed to block
 <p><strong>Ref 9: Verification of Active Firewall Rules</strong><br>
 This screenshot confirms that the firewall rule has been successfully applied and is actively protecting the SSH service from further access attempts originating from the identified attacker IP address.</p>
 
-<img src="iptables_mitigation_verification.png" width="700" alt="iptables Verification">
+<img src="Screenshot 2026-06-24 at 15.27.35.png" width="700" alt="iptables Verification">
 
 <p>Blocked Attacker Verification</p><br>
 

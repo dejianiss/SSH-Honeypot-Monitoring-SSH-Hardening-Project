@@ -93,7 +93,7 @@ This screenshot shows the OpenSSH service running successfully on the Linux targ
 <p><strong>Ref 2: SSH Authentication Log Monitoring</strong><br>
 This screenshot displays real-time monitoring of the Linux authentication log using the auth.log file. Failed SSH login attempts are captured and recorded by the operating system, providing valuable forensic data for security investigations.</p>
 
-<img src="live_auth_monitoring.png" width="700" alt="Auth Log Monitoring">
+<img src="Screenshot 2026-06-24 at 14.41.31.png" width="700" alt="Auth Log Monitoring">
 
 <p>Live SSH Authentication Logging</p><br>
 

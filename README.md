@@ -84,7 +84,7 @@ Attacker IP Blocked
 <p><strong>Ref 1: SSH Service Status Verification</strong><br>
 This screenshot shows the OpenSSH service running successfully on the Linux target system. Verifying service availability ensures the SSH server is ready to receive authentication requests and generate security logs for monitoring purposes.</p>
 
-<img src="INSERT_SCREENSHOT_1.png" width="700" alt="SSH Service Running">
+<img src="Screenshot 2026-06-25 at 13.38.07.png" width="700" alt="SSH Service Running">
 
 <p>SSH Service Running Successfully</p><br>
 
